@@ -1,0 +1,543 @@
+[
+    {
+        "description": "Schemax is a software product and technology services company based out of India (Hyderabad & Visakhapatnam.",
+        "image": "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/08_.png",
+        "projectLink": "https://www.schemaxtech.com",
+        "tags": ["Web 2"],
+        "title": "Schemax Tech",
+        "projectName": "schemax-tech",
+        "completed": true,
+        "overview": {
+        "images": [
+            "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/08_.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/schemax/312c43169115757.64476fd530cde.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/schemax/8c9dd1169115757.64476f00c764c.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/schemax/3af8b5169115757.64476f00c681f.png"
+        ],
+        "techstack": ["reactjs", "nextjs", "tailwind", "vercel", "figma"],
+        "content": [
+            {
+            "title": "About Company",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+        ],
+        "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+        }
+        }
+    },
+
+    {
+        "description": "Decentrialz is an innovative platform that revolutionizes the recruitment process for clinical trials. Our mission is to provide an integrated technology platform that locates, qualifies, and recruits patients at scale. With our proprietary software solutions, we automate manual tasks, ensuring streamlined and efficient recruitment processes within target timeframes and budgets.",
+    
+        "image": "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/09_.png",
+        "projectLink": "https://decentrialz.com",
+        "tags": ["Web 2"],
+        "title": "Decentrialz",
+        "projectName": "decentrialz",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/09_.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/531290170730703.646345d2d625f.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/5d7893170730703.646345d2d9515.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/7404fd170730703.64634bda0abf9.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/bbd7bf170730703.646345d2d795a.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/e9ae5b170730703.646345d2d88df.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/decentralize/2f8a1f170730703.646345d2d6e54.png"
+            ],
+            "techstack": ["reactjs", "vite", "python", "aws", "vercel", "mysql"],
+            "content": [
+            {
+                "title": "About Company",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": "Spotmies is an innovative and open-source home service application designed to bridge the gap between householders and blue-collar service providers. With Spotmies, users can effortlessly find reliable service professionals for their various home service needs, while service providers can showcase their skills and connect with potential clients.",
+
+        "image": "https://raw.githubusercontent.com/spotmies/images/main/spotmies%20user%20app/28721f170721903.6463218e6bc98.png",
+        "projectLink": "https://google.com",
+        "tags": ["Web 2"],
+        "title": "Sweken",
+        "projectName": "sweken",
+        "completed": true,
+        "overview": {
+        "images": [
+            "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/1009355/pexels-photo-1009355.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/213172/pexels-photo-213172.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/554609/pexels-photo-554609.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/1118667/pexels-photo-1118667.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/701016/pexels-photo-701016.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "https://images.pexels.com/photos/1857628/pexels-photo-1857628.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        ],
+        "techstack": [
+            "figma",
+            "flutter",
+            "reactjs",
+            "mongodb",
+            "nodejs",
+            "firebase"
+        ],
+        "content": [
+            {
+                "title": "About Company",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+        ],
+        "links": {
+            "website": "https://spotmiess.firebaseapp.com"
+        }
+        }
+    },
+
+    {
+        "description": "Experience the extraordinary world of Indie Skull Syndicate, where creativity, uniqueness, and digital ownership merge into a captivating journey. Join Zoople and 2,500 other wanderers in this groundbreaking NFT project that blurs the boundaries between humans and phantoms. Are you ready to become a member of the Syndicate",
+        "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/5_indiesskull.png?raw=true",
+        "projectLink": "https://indieskullsyndicate.xyz",
+        "tags": ["Web 3", "NFT"],
+        "title": "Indie Skull Syndicate",
+        "projectName": "indie-skull-syndicate",
+        "glimpse": "NFT based project",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/5_indiesskull.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/Grinch%20nft/2edb83169113745.644764b381632.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/Grinch%20nft/45aeff169113745.644764b38368c.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/Grinch%20nft/5e05ac169113745.644764b3823c0.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/Grinch%20nft/664197169113745.6447680d9b8a2.png"
+            ],
+            "techstack": [
+            "nextjs",
+            "tailwind",
+            "vercel",
+            "firebase",
+            "metamask",
+            "solidity",
+            "ethereum"
+            ],
+            "content": [
+            {
+                "title": "About Company",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": "A Square Go Karting is an exhilarating theme park located in Anandapuram, Visakhapatnam. With its play arena, drive-in, and race track, it offers an adventurous experience for youngsters and children. Featuring India's longest track, it invites you to test your skills and enjoy thrilling twists and turns with your friends and family",
+    
+        "image": "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/10_.png",
+        "projectLink": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+        "tags": ["Web 2"],
+        "title": "A Square Go Karting",
+        "projectName": "a-square-go-karting",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/10_.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/gokarting/424fd1168724535.643faf6c4a28a.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/gokarting/a8758a168724535.643faf6c48905.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/gokarting/d851f6168724535.643fc2291b128.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/gokarting/fe44ca168724535.643faf6c49688.png"
+            ],
+            "techstack": ["flutter", "reactjs", "nodejs", "mongodb"],
+            "content": [
+            {
+                "title": "About Company",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": " Cypher-B is an innovative recruitment and verification platform built on the blockchain. It revolutionizes the hiring process by enabling users to secure job opportunities, verify their identities, and share their credentials with employers and organizations. By leveraging the power of blockchain technology, Cypher-B ensures a secure, tamper-proof, and transparent ecosystem for both job seekers and employers.",
+        "image": "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/11_.png",
+        "projectLink": "https://www.cypherb.com",
+        "tags": ["Web 3"],
+        "title": "Cypher-B",
+        "projectName": "cypher-b",
+        "glimpse": "Recruitment Platform on the blockchain",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://raw.githubusercontent.com/spotmies/images/cc21efb2212e862f2b5acfe08e9d2fe9c671e566/11_.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/1e7a56168877497.6442516a7a7dc.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/4ea5ba168877497.6442516a7c78c.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/a6cdf1168877497.6442524e0152d.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/aa399a168877497.6442516a78e1f.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/b70b2b168877497.6442516a79afc.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/%20cypherb/d094fb168877497.6442516a76f69.png"
+            ],
+            "techstack": [
+            "nextjs",
+            "nodejs",
+            "polygon",
+            "mongodb",
+            "biconomy",
+            "metamask",
+            "tailwind"
+            ],
+            "content": [
+            {
+                "title": "About Company",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+            }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": "Introducing VIP Food Delivery, an innovative food delivery app designed to provide you with a premium and hassle-free culinary experience. With our beautifully crafted UI screens, we aimed to showcase the potential of this app, although the project itself did not materialize.",
+    
+        "image": "https://raw.githubusercontent.com/spotmies/images/main/vip%20delivery%20app/273d89169222763.644905769d34d.png",
+        "projectLink": "https://pumpendump.com",
+        "tags": ["Web 2"],
+        "title": "ADVAIT LABS",
+        "projectName": "advait-labs",
+        "completed": true,
+        "overview": {
+            "images": [
+                "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1009355/pexels-photo-1009355.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/213172/pexels-photo-213172.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/554609/pexels-photo-554609.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1118667/pexels-photo-1118667.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/701016/pexels-photo-701016.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1857628/pexels-photo-1857628.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            ],
+            "techstack": ["figma"],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+    {
+        "description": "Mad Angles is an extraordinary NFT (Non-Fungible Token) project that combines the allure of triangular art with the captivating expressions of eyes, mouth, and eyebrows. It is a unique and visually stunning collection of digital assets that showcases the creative fusion of geometry and emotions. Although the project has been fully developed, encompassing UI design, artwork, and smart contract deployment on the Ethereum network, it awaits the opportunity to be launched into the vibrant NFT marketplace.",
+        "image": "https://raw.githubusercontent.com/spotmies/images/main/madangles/59ce1f170633731.6461d796dec6d.png",
+        "projectLink": "https://indieskullsyndicate.xyz",
+        "tags": ["Web 3", "NFT"],
+        "title": "AU Incubation Center",
+        "projectName": "au-incubation",
+        "glimpse": "NFT based project",
+        "completed": false,
+        "overview": {
+            "images": [
+                "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1009355/pexels-photo-1009355.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/213172/pexels-photo-213172.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/554609/pexels-photo-554609.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1118667/pexels-photo-1118667.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/701016/pexels-photo-701016.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1857628/pexels-photo-1857628.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            ],
+            "techstack": [
+            "nextjs",
+            "tailwind",
+            "vercel",
+            "firebase",
+            "metamask",
+            "solidity",
+            "ethereum"
+            ],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": "Visakhapatnam's premier two-wheeler rental service. We are here to make your travel experience in Visakhapatnam convenient and enjoyable. Whether you need a bike or a scooter for short distances or longer trips, Chalo Ride has got you covered. With our commitment to affordable prices and excellent service, we aim to provide you with the best value for your money.",
+    
+        "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/15_chaloRide.png?raw=true",
+        "projectLink": "http://chaloride.in/bikes-for-rental-visakapatnam",
+        "tags": ["Web 2"],
+    
+        "title": "Chalo Ride",
+        "projectName": "chaloride",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/15_chaloRide.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/chalo%20ride/ba728e170278165.645b3f910cc98.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/chalo%20ride/ce48dd170278165.645b3f910e3b6.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/chalo%20ride/196049170278165.645b3f910c1b8.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/chalo%20ride/93d32a170278165.645b413603ce4.png"
+            ],
+            "techstack": ["reactjs", "tailwind", "godaddy"],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+    
+    {
+        "description": "Mr bikes is the no 1 Bike rental service provider in Andhra Pradesh. We are here to provide bikes on rental basis to students, tourists and who are enthusiast in bike riding. Curently we are providing bike rental services in Vizag",
+    
+        "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/16_mrBikes.png?raw=true",
+        "projectLink": "https://www.mrbikes.in/bikes-for-rental-visakapatnam",
+        "tags": ["Web 2"],
+        "title": " Mr Bikes",
+        "projectName": "mr-bikes",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/16_mrBikes.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/mr%20bikes/0d214e170376321.645cbdcb96484.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/mr%20bikes/36e7fb170376321.645cbdcb96e50%20(1).png",
+            "https://raw.githubusercontent.com/spotmies/images/main/mr%20bikes/ba0b59170376321.645cbdcb95806.png"
+            ],
+            "techstack": ["reactjs", "tailwind", "godaddy"],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+            "description": "Reels NFT is an extraordinary digital art project that celebrates the captivating world of paper art through a collection of 1826 unique pieces. Developed as an in-house venture by our creative team, Reels NFT offers a mesmerizing assortment of intricately crafted paper artworks, waiting to be unveiled and cherished by art enthusiasts and collectors.",
+            "image": "https://raw.githubusercontent.com/spotmies/images/main/reels/45e3bd170632725.6461d3935cd00.png",
+            "projectLink": "https://indieskullsyndicate.xyz",
+            "tags": ["Web 3", "NFT"],
+            "title": "IOX academy",
+            "projectName": "iox-academy",
+            "glimpse": "NFT based project",
+            "completed": false,
+            "overview": {
+            "images": [
+                "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1009355/pexels-photo-1009355.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/213172/pexels-photo-213172.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/554609/pexels-photo-554609.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1118667/pexels-photo-1118667.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/701016/pexels-photo-701016.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1857628/pexels-photo-1857628.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            ],
+            "techstack": [
+                "nextjs",
+                "tailwind",
+                "vercel",
+                "firebase",
+                "metamask",
+                "solidity",
+                "ethereum"
+            ],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+                "website": "https://www.schemaxtech.com",
+                "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+                "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+        
+    {
+            "description": "Minting your very own Something NFT is made accessible and affordable, with a mint price of just 0.005 Ethereum. As an additional gesture, every wallet is entitled to receive one free NFT, allowing everyone to participate and experience the joy of owning these remarkable artworks.",
+            "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/6_something.png?raw=true",
+            "projectLink": "https://itssomethingnft.xyz",
+            "tags": ["Web 3", "NFT"],
+            "title": "No Drafts",
+            "projectName": "no-drafts",
+            "glimpse": "NFT based project",
+            "completed": true,
+            "overview": {
+            "images": [
+                "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1009355/pexels-photo-1009355.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/213172/pexels-photo-213172.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/554609/pexels-photo-554609.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1118667/pexels-photo-1118667.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/701016/pexels-photo-701016.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "https://images.pexels.com/photos/1857628/pexels-photo-1857628.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            ],
+            "techstack": [
+                "nextjs",
+                "tailwind",
+                "vercel",
+                "firebase",
+                "metamask",
+                "solidity",
+                "ethereum"
+            ],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+                "website": "https://www.schemaxtech.com",
+                "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+                "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+    {
+        "description": "Vihaan Electrix is a comprehensive e-commerce platform developed using Flutter, React.js, and Node.js. It serves as an efficient electric bike booking platform that enables users to browse and book electric vehicles. Additionally, the platform provides access to service stations for maintenance and repair services. Vihaan Electrix focuses on simplifying the transition to electric mobility by addressing various facets of electric vehicle ownership.",
+    
+        "image": "https://raw.githubusercontent.com/spotmies/images/main/vihaan%20electrix/d4490a169035379.6446288349b24.png",
+        "projectLink": "https://vihaanelectrix.in",
+        "tags": ["Web 2"],
+        "title": "Vihaan Electrix",
+        "projectName": "vihaan-electrix",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://raw.githubusercontent.com/spotmies/images/main/vihaan%20electrix/d4490a169035379.6446288349b24.png",
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/13_vihan.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/vihaan%20electrix/7afc2a169035379.644628834b379.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/vihaan%20electrix/ef0cca169035379.644628834c0a4.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/vihaan%20electrix/8bc55d169035379.644628834a6f8.png"
+            ],
+            "techstack": [
+            "adobexd",
+            "flutter",
+            "reactjs",
+            "firebase",
+            "mongodb",
+            "nodejs"
+            ],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+    {
+        "description": "CGRUM is QR Scanning application with reward system. It is useful in the traditional television marketing for best results.",
+    
+        "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/10_dashboard.png?raw=true",
+        "projectLink": "https://play.google.com/store/apps/details?id=com.cgrum",
+        "tags": ["Web 2"],
+        "title": " CGRUM",
+        "projectName": "cgrum",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/10_dashboard.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/cgrum/04b97e170635643.6461df0a67acf.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/cgrum/0305f8170635643.6461df0a651ad.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/cgrum/295857170635643.6461df0a63b8c.png"
+            ],
+            "techstack": ["figma", "flutter", "nodejs", "aws"],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    },
+
+    {
+        "description": "Nandikrushi is a revolutionary consumer application that aims to bridge the gap between farmers and consumers by facilitating the delivery of organic food directly from the source. With a commitment to providing the best quality groceries, Nandikrushi serves as a trusted grocery delivery service provider in Vizag. By prioritizing transparency and authenticity, the platform ensures that every product delivered to the consumer's doorstep is of the highest standard.",
+    
+        "image": "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/9_food.png?raw=true",
+        "projectLink": "https://google.com",
+        "tags": ["Web 2"],
+        "title": "Nandikrushi",
+        "projectName": "nandikrushi",
+        "completed": true,
+        "overview": {
+            "images": [
+            "https://github.com/spotmies/images/blob/68dfe13aec4879d52a692b7ce44bcd586b02c2b1/9_food.png?raw=true",
+            "https://raw.githubusercontent.com/spotmies/images/main/nandhi%20krushi/1ce906170631031.6461cc59b2073.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/nandhi%20krushi/dc57c6170631031.6461cc59b539b.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/nandhi%20krushi/eefc2f170631031.6461cc59b456e.png",
+            "https://raw.githubusercontent.com/spotmies/images/main/nandhi%20krushi/e46f88170631031.6461cc59b2caa.png"
+            ],
+            "techstack": ["figma", "flutter", "reactjs", "mysql", "php", "aws"],
+            "content": [
+                {
+                    "title": "About Company",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, consequat sit amet dolor quis, vestibulum faucibus ante. Integer velit lacus, porta sit amet nibh et, viverra mollis justo. Aliquam erat volutpat. Morbi fermentum tellus nulla, non ultrices metus interdum aliquam. Praesent laoreet maximus massa, in sodales mi blandit id. Duis nec blandit lacus, et placerat massa. Mauris ex mauris, ultricies id ultrices eu, auctor et magna. Nunc libero sem, aliquam id nulla in, blandit dictum lacus. Proin a mi ultricies, lacinia felis eget, condimentum risus. Mauris nec est id ex imperdiet tincidunt ac vel est. Vestibulum congue libero ac nulla auctor volutpat. Quisque a enim velit. Integer et eros vitae felis sagittis auctor. Vestibulum pulvinar purus at viverra fringilla. In ac luctus nulla. Nullam odio felis, rutrum sit amet semper non, tincidunt a magna. Aliquam varius erat non turpis vulputate dignissim. Etiam et tortor id nunc pharetra tempor."
+                }
+            ],
+            "links": {
+            "website": "https://www.schemaxtech.com",
+            "android": "https://play.google.com/store/apps/details?id=com.asquaregokarting",
+            "ios": "https://play.google.com/store/apps/details?id=com.asquaregokarting"
+            }
+        }
+    }
+
+
+]
